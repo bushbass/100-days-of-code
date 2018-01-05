@@ -15,3 +15,11 @@
 **Thoughts:** route params not working at the end of the exercise so I'll have t figure it out myself  Will need to do that before the homework
 
 **Link to work:** https://github.com/bushbass/LS-Pro-React-V-lesson
+
+### Day 3: January 4, 2018
+
+**Today's Progress**: more learing react router from LS-Pro part 5. did the homework.  started fullstack academy free online prep.  just for practice.  also messed around with phish.net and setlist.fm API.  I want to create an app like IHOZ phish stats....
+
+**Thoughts:** realized the LS Pro lecture/assignment is basically the react-router docs... and 
+
+**Link to work:** https://github.com/bushbass/LS-Pro-React-V-homework
