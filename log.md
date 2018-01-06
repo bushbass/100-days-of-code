@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 2, 2018
+### Day 4: January 5, 2018
 
-**Today's Progress**: worked on learing react router from LS-Pro part 4
+**Today's Progress**: finished Homework #2 of Javascript course  
 
-**Thoughts:** I'm starting this with day 1 instead of day 0.  Pointing this out because I guess most folks start with 0.  I already tweeted R1D1 so I'll start the log with 1.  React router seems pretty straightforward.  Going to work now on the homework portion, already did the lesson/tutorial portion.
+**Thoughts:** I ran into some trouble and almost quit to move onto something else but I struggled through and got it done!!!
 
-**Link to work:** https://github.com/bushbass/LS-Pro-React-IV-lesson
+**Link to work:** https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/
+
+### Day 3: January 4, 2018
+
+**Today's Progress**: more learing react router from LS-Pro part 5. did the homework.  started fullstack academy free online prep.  just for practice.  also messed around with phish.net and setlist.fm API.  I want to create an app like IHOZ phish stats....
+
+**Thoughts:** realized the LS Pro lecture/assignment is basically the react-router docs... and 
+
+**Link to work:** https://github.com/bushbass/LS-Pro-React-V-homework
 
 ### Day 2: January 3, 2018
 
@@ -16,10 +24,12 @@
 
 **Link to work:** https://github.com/bushbass/LS-Pro-React-V-lesson
 
-### Day 3: January 4, 2018
+### Day 1: January 2, 2018
 
-**Today's Progress**: more learing react router from LS-Pro part 5. did the homework.  started fullstack academy free online prep.  just for practice.  also messed around with phish.net and setlist.fm API.  I want to create an app like IHOZ phish stats....
+**Today's Progress**: worked on learing react router from LS-Pro part 4
 
-**Thoughts:** realized the LS Pro lecture/assignment is basically the react-router docs... and 
+**Thoughts:** I'm starting this with day 1 instead of day 0.  Pointing this out because I guess most folks start with 0.  I already tweeted R1D1 so I'll start the log with 1.  React router seems pretty straightforward.  Going to work now on the homework portion, already did the lesson/tutorial portion.
 
-**Link to work:** https://github.com/bushbass/LS-Pro-React-V-homework
+**Link to work:** https://github.com/bushbass/LS-Pro-React-IV-lesson
+
+
