@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 8, 2018
+
+**Today's Progress**: A little bootstrap tutorial coursera U. HongKong.  a little react on udemy (david katz)
+
+**Thoughts:**  Need to make sure I do more coding and less watching going forward...
+
+**Link to work:** 
+
+### Day 6: January 7, 2018
+
+**Today's Progress**: Pretty much the same as yesterday, algorithm practice on FSA pre course ,
+
+**Thoughts:**  need to do more self directed, less tutorial... 
+
+**Link to work:** fullstack pre-course
+
+### Day 5: January 6, 2018
+
+**Today's Progress**: algorithm practice on FSA pre course 
+
+**Thoughts:**
+
+**Link to work:** fullstack pre-course
+
 ### Day 4: January 5, 2018
 
 **Today's Progress**: finished Homework #2 of Javascript course  
