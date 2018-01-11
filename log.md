@@ -1,4 +1,19 @@
 # 100 Days Of Code - Log
+### Day 9: January 8, 2018
+
+**Today's Progress**: Reviewing some HTML/CSS on Udacity google scholarship like everyone else...  also working on a React Udemy class(david katz, music master).  Definitely made up for yesterday's < hour 
+
+**Thoughts:**  this google udacity scholarship is not what I exactly expected.  Definitely going to be 98% review, plus it seems like they barely turned anyone away.  maybe at least get some networking out of it?
+
+**Link to work:** 
+
+### Day 8: January 8, 2018
+
+**Today's Progress**: Probably not quite an hour today but I'm really tired for some reason. 🙁 
+
+**Thoughts:**  I'll do a bit extra first thing in the morning...  
+
+**Link to work:** 
 
 ### Day 7: January 8, 2018
 
