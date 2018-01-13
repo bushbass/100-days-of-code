@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
-### Day 9: January 8, 2018
+
+### Day 10-11: January 11 - 12, 2018
+
+**Today's Progress**: Variety of stuff.  Udemy, google/udacity, messing with APIs
+
+**Thoughts:**  getting the spotify "token" had been a no-go.  shouldn't be this hard...
+
+**Link to work:** 
+
+### Day 9: January 10, 2018
 
 **Today's Progress**: Reviewing some HTML/CSS on Udacity google scholarship like everyone else...  also working on a React Udemy class(david katz, music master).  Definitely made up for yesterday's < hour 
 
@@ -7,7 +16,7 @@
 
 **Link to work:** 
 
-### Day 8: January 8, 2018
+### Day 8: January 9, 2018
 
 **Today's Progress**: Probably not quite an hour today but I'm really tired for some reason. 🙁 
 
