@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 12-13: January 13-14, 2018
+
+**Today's Progress**: Variety of stuff.  Coursera Bootstrap course, google/udacity course
+
+**Thoughts:**  doing a lot but I know I need to STILL do more independent programming and less course driven stuff...
+
+**Link to work:**
+
 ### Day 10-11: January 11 - 12, 2018
 
 **Today's Progress**: Variety of stuff.  Udemy, google/udacity, messing with APIs
 
-**Thoughts:**  getting the spotify "token" had been a no-go.  shouldn't be this hard...
+**Thoughts:**  getting the spotify "token" has been a no-go.  shouldn't be this hard...
 
 **Link to work:** 
 
