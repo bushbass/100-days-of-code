@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 15, 2018
+Today's Progress: 3 hours on google/udacity course
+
+** Thoughts:** still in the tutorial rut....
+
+** Link to work:**
+
 ### Day 12-13: January 13-14, 2018
 
 **Today's Progress**: Variety of stuff.  Coursera Bootstrap course, google/udacity course
