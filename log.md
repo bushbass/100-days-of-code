@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 16, 2018
+**Today's Progress:** a couple hours on google/udacity project and got it done in one (long) sitting!
+
+**Thoughts:** they gave some starter code but it was mostly free form.  feeling pretty good about that
+
+**Link to work:** https://bushbass.github.io/project-pixel-art-maker-starter/index.html
+
 ### Day 14: January 15, 2018
 **Today's Progress:** 3 hours on google/udacity course
 
