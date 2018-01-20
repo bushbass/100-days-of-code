@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 16 - 18: January 17 - 19, 2018
+**Today's Progress:** Can't seem to do this log every day but I have been doing at least an hour a day
+
+**Thoughts:** at least an hour a day, defintely more really.  doing a lot of algorithm challenges mostly.  one codefights problem is kicking my ass...
+
+**Link to work:** 
+
 ### Day 15: January 16, 2018
 **Today's Progress:** a couple hours on google/udacity project and got it done in one (long) sitting!
 
